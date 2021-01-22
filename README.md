@@ -10,7 +10,6 @@ Become more familiar with git commands and version control
 * Tracking files
 * Staging and Commiting Files
 * Logging
-* Ignoring files
 
 ## Activity 1
 
