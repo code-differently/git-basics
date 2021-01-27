@@ -149,13 +149,13 @@ Now we will repeat some of the steps to add and modify more files. Use the previ
 3. Return to terminal and run 'git status'
 4. Create a new file called 'css3.txt' and open it
 5. Search wikipedia for 'CSS3'
-6. Copy and paste a paragraph into the new 'javascript.txt' file. Save the file
+6. Copy and paste a paragraph into the new 'css3.txt' file. Save the file
 7. In terminal, run `git status`
 8. Use git diff to see the changes
 8. Add the changes to 'html5.txt' to staging with git add
 9. Run `git status`
 10. Commit the changes
-11. Add 'javascript.txt' to staging with git add
+11. Add 'css3.txt' to staging with git add
 12. Run `git status`
 13. Use `git diff <file-name>` and `git diff --staged <file-name>`
 14. Commit the new changes
